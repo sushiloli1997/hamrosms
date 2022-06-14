@@ -172,7 +172,7 @@ __Request Method :__  &nbsp; POST
 __Request Headers:__ { <br>
   Authorization: Bearer <br>
  {Token received from hamrosms24X7},<br>
-Content-type: multipart/form-data
+Content-type: application/json
 <br>}
 
 __Request Body in form data:__ 
@@ -217,7 +217,7 @@ Below is the response received for the above request made –
 
 __Request Headers__: { Authorization: Bearer <br>
 eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6ImE2NTQ0MzA5OWI5MDFiOD <br>
-Content-type:multipart/form-data }
+Content-type:application/json }
 
 ## __Method type :__ &nbsp; POST <br>
 
@@ -254,7 +254,7 @@ __Request URI:__  &nbsp;[https://hamrosms247.com/api/sms](https://hamrosms247.co
 
 __Request Headers :__ { Authorization: Bearer <br>
 eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6ImE2NTQ0MzA5OWI5MDFiOD,<br>
-Content-type: multipart/form-data }
+Content-type: application/json }
 
 ## __Method type:__ &nbsp; POST <br>
 
